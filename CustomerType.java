@@ -1,0 +1,4 @@
+enum CustomerType {
+    REGULAR,
+    VIP
+}
